@@ -2,8 +2,6 @@
 
 Collection of electronics, signal processing, and microcontroller projects
 
-![Electronics Lab](https://via.placeholder.com/800x400.png?text=Electronics+Experiments)  
-*(My playground for Multisim, MATLAB, Keil5 & more)*
 
 ## What's inside?
 
